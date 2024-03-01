@@ -36,9 +36,20 @@ This project implements a vehicle number plate recognition system using OpenCV a
 - `README.md`: Documentation providing an overview of the project, usage instructions, and setup details.
 
 ## Setup
-### Installation
-1. Clone the repository: `git clone <repository_url>`.
-2. Install dependencies: `pip install -r requirements.txt`.
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/naman9548/Vehicle-Number-Plate-Detection
+    cd Vehicle-Number-Plate-Detection
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ### Execution
 - Run the script: `python main.py`.
@@ -48,7 +59,7 @@ This project implements a vehicle number plate recognition system using OpenCV a
 - This system is designed for demonstration purposes and may require further optimization for real-world applications.
 
 ## Author
-- **Naman Deol**: (https://www.linkedin.com/in/naman-deol-b1a581232/)
+[Naman Deol](https://www.linkedin.com/in/naman-deol-b1a581232/)
 
 ## Contributions
 - Contributions are welcome! Please submit issues or pull requests for any enhancements or bug fixes.
